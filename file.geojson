@@ -1,0 +1,116 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8432, 34.0209]
+        },
+        "properties": {
+          "name": "Hassan Tower",
+          "description": "Historical landmark in Rabat"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8497, 34.0239]
+        },
+        "properties": {
+          "name": "Kasbah of the Udayas",
+          "description": "Medieval fortress and historic site"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8472, 34.0156]
+        },
+        "properties": {
+          "name": "Rabat Archaeological Museum",
+          "description": "Museum showcasing Moroccan artifacts"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8299, 34.0279]
+        },
+        "properties": {
+          "name": "Royal Palace of Rabat",
+          "description": "Official residence of the King of Morocco"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8475, 34.0204]
+        },
+        "properties": {
+          "name": "Mohammed V Mausoleum",
+          "description": "Tomb of King Mohammed V"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8313, 34.0194]
+        },
+        "properties": {
+          "name": "Rabat Beach",
+          "description": "Popular beach along the Atlantic coast"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8694, 34.0128]
+        },
+        "properties": {
+          "name": "Chellah Necropolis",
+          "description": "Ancient Roman ruins and necropolis"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8414, 34.0228]
+        },
+        "properties": {
+          "name": "Mohammed VI Museum of Modern and Contemporary Art",
+          "description": "Art museum featuring modern Moroccan art"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8586, 34.0196]
+        },
+        "properties": {
+          "name": "Andalusian Gardens",
+          "description": "Scenic gardens with Andalusian influence"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.8573, 34.0184]
+        },
+        "properties": {
+          "name": "Rabat Old Town (Medina)",
+          "description": "Historic quarter with narrow streets and markets"
+        }
+      }
+    ]
+  }
+  
